@@ -1,4 +1,4 @@
-name: "Harshv pipeline1"
+name: "Harshv pipeline"
 on: push
 
 permissions:
