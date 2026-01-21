@@ -21,6 +21,7 @@ jobs:
         with:
           # Name of the OIDC provider as specified on the OIDC integration page in the JFrog Platform
           oidc-provider-name: "harshv-oidc"
+          oidc-audience: "hv-aud"
 
       - name: Run JFrog CLI
         run: |
